@@ -1,0 +1,7 @@
+name: HideTags
+version: '${project.version}'
+main: me.amirmistik.hidetags.hidetags.Hidetags
+api-version: 1.18
+authors: [ AMIRMISTIK, omashune ]
+description: Hide tags plugin rewrited by AMIRMISTIK. Original author omashune
+website: https://github.com/amirmistik
